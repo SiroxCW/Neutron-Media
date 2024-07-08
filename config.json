@@ -1,0 +1,12 @@
+{
+  "discord_token": "",
+  "media_folder": "media",
+  "media_folder_srv": "/tv",
+  "plex_url": "http://localhost:32400",
+  "x_plex_token": "",
+  "jelly_folder_id": "",
+  "jelly_url": "http://localhost:8096",
+  "jelly_token": "",
+  "discord_webhook": "",
+  "version": "1.2.2"
+}
